@@ -1,0 +1,14 @@
+PODS:
+  - Gzliblary (0.1.0)
+
+DEPENDENCIES:
+  - Gzliblary (from `../`)
+
+EXTERNAL SOURCES:
+  Gzliblary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Gzliblary: 9322f479aed56b5e5f94756a64298f4e89666aca
+
+COCOAPODS: 0.35.0.rc2
